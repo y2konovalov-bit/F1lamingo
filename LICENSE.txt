@@ -1,0 +1,237 @@
+PROPRIETARY SOFTWARE LICENSE
+ALL RIGHTS RESERVED
+
+Copyright (c) 2026 y2konovalov-bit and deniedsndwx-hash
+
+Version: 1.0
+
+Effective Date: October 15, 2026
+
+==================================================
+
+1. COPYRIGHT OWNERSHIP
+    ==================================================
+
+This license applies to the source code, documentation, original assets, configuration files, and other materials contained in this repository (collectively, the “Work”), except for third-party materials governed by separate license terms.
+
+The following individuals are identified by their GitHub usernames as the intended Copyright Holders:
+
+* y2konovalov-bit
+* deniedsndwx-hash
+
+Any claim of joint copyright ownership is subject to applicable law, the parties’ actual contributions, and any valid written agreements between them.
+
+Nothing in this license transfers ownership of copyright to users who access, view, download, or copy the Work.
+
+Third-party libraries, dependencies, assets, and other materials remain subject to their respective copyright owners and licenses.
+
+==================================================
+2. LIMITED PERMISSION TO ACCESS AND USE
+
+Subject to this license and applicable law, any person accessing the Work is granted a limited, personal, non-exclusive, non-transferable, non-sublicensable permission to:
+
+a. View and read the source code.
+
+b. Download and copy the source code for personal, private, non-commercial purposes.
+
+c. Store copies of the Work on personal devices or in private storage.
+
+d. Run and test the Work locally for personal, private, non-commercial purposes.
+
+e. Make modifications strictly for private local learning, testing, debugging, or personal use, provided that such modifications are not publicly distributed, commercially exploited, or otherwise used in violation of this license.
+
+This permission does not grant any ownership rights in the Work.
+
+No rights beyond those expressly granted in this section are provided.
+
+==================================================
+3. PROHIBITED COMMERCIAL USE
+
+Unless expressly authorized in writing by the Copyright Holders or otherwise permitted by applicable law, users must not use the Work, in whole or in substantial part, for commercial purposes.
+
+Prohibited activities include, but are not limited to:
+
+a. Selling the Work or copies of it.
+
+b. Charging fees for access to the Work or functionality substantially based on it.
+
+c. Incorporating the Work into a paid product or service.
+
+d. Using the Work to provide paid services to customers or clients.
+
+e. Monetizing the Work through subscriptions, advertising, sponsorships, donations tied to its use, paid access, or other revenue-generating arrangements.
+
+f. Licensing, sublicensing, renting, or otherwise commercially exploiting the Work.
+
+g. Using the Work as a substantial part of a business activity intended to generate revenue.
+
+h. Using the Work to create or operate a commercial product or service without the required authorization.
+
+i. Circumventing these restrictions by changing names, interfaces, file structures, programming languages, or other superficial elements of the Work.
+
+Whether a particular activity constitutes commercial use shall be determined by its actual nature and circumstances, subject to applicable law.
+
+==================================================
+4. RESTRICTIONS ON PUBLICATION AND REDISTRIBUTION
+
+Except with prior written authorization from the Copyright Holders, users must not:
+
+a. Publish or upload copies of the Work to another public repository, website, code-sharing platform, or public file-hosting service.
+
+b. Publicly distribute modified versions or derivative works based on the Work.
+
+c. Republish the Work under another name or account in a manner that violates this license.
+
+d. Distribute copies of the Work to third parties outside the scope of the permissions expressly granted herein.
+
+e. Claim that the Work was independently created by the user when that claim would be false or misleading.
+
+f. Remove, falsify, or conceal copyright notices or other attribution information included in the Work.
+
+These restrictions apply only to the extent permitted by applicable law and do not override rights or permissions granted by the applicable platform’s terms.
+
+==================================================
+5. MODIFICATION AND ATTRIBUTION
+
+Users may make private local modifications only within the scope of Section 2.
+
+Users must not modify, rename, restructure, obfuscate, or otherwise alter the Work for the purpose of concealing its origin, misleading others about authorship, circumventing this license, or facilitating unauthorized distribution or commercial use.
+
+No user may claim ownership of the original Work merely because they have modified, translated, refactored, or adapted it.
+
+Any copyright notices contained in the original Work must be retained in private copies where reasonably practicable and must not be deliberately removed to misrepresent ownership or provenance.
+
+Nothing in this section prevents a person from asserting legitimate copyright in their own original contributions where recognized by applicable law.
+
+==================================================
+6. NO AUTOMATIC COMMERCIAL LICENSE
+
+No commercial rights are granted by implication, estoppel, possession of a copy, access to a public repository, or the creation of a modified version.
+
+Commercial use requires explicit written authorization from the Copyright Holders or their duly authorized representative.
+
+No user may obtain commercial rights merely by:
+
+a. Copying or downloading the Work.
+
+b. Modifying or adapting the Work.
+
+c. Publishing a fork or mirror.
+
+d. Changing the name, appearance, structure, or functionality of the Work.
+
+e. Claiming to have independently recreated the Work where protected expression has been copied.
+
+f. Obtaining permission from a person who does not possess the authority to grant it.
+
+Any commercial authorization must specify its scope and conditions.
+
+==================================================
+7. AUTHORIZED LICENSEES
+
+The following GitHub usernames identify the intended Copyright Holders:
+
+* y2konovalov-bit
+* deniedsndwx-hash
+
+The inclusion of a username in this section identifies the intended holder or authorized party but does not, by itself, establish legal ownership or grant unrestricted commercial rights.
+
+Additional persons may receive specific permissions only through an explicit written authorization issued by the Copyright Holders or by a person legally authorized to act on their behalf.
+
+An authorization should identify:
+
+a. The recipient’s GitHub username or other appropriate legal identity.
+
+b. The exact rights granted.
+
+c. Whether commercial use is permitted.
+
+d. Whether modification and redistribution are permitted.
+
+e. Any applicable limitations, fees, duration, or conditions.
+
+f. The effective date of the authorization.
+
+Unless expressly stated otherwise, an authorization grants only the specific rights it describes.
+
+A person’s inclusion in this section does not automatically grant that person the right to sublicense the Work or grant rights on behalf of the Copyright Holders.
+
+==================================================
+8. PROCEDURE FOR GRANTING COMMERCIAL RIGHTS
+
+Commercial rights may be granted only through an explicit written agreement or authorization that clearly identifies the rights being granted.
+
+The Copyright Holders should establish in writing who is authorized to approve commercial licenses and whether approval from one or both holders is required.
+
+Unless otherwise agreed in a valid written arrangement, users must not assume that either holder may independently grant rights in material jointly owned by both holders.
+
+A listing in this file should describe the specific permission granted and must not be interpreted as granting rights beyond its express wording.
+
+Any amendment to an existing commercial agreement is subject to that agreement and applicable law.
+
+==================================================
+9. THIRD-PARTY MATERIALS
+
+This license applies only to material for which the Copyright Holders have the legal right to impose these terms.
+
+Third-party software, open-source dependencies, fonts, images, datasets, and other external materials may be governed by separate licenses.
+
+Nothing in this license restricts rights expressly granted by the applicable third-party licenses or claims ownership of third-party material.
+
+Users are responsible for complying with the applicable terms governing third-party components.
+
+==================================================
+10. NO WARRANTY
+
+To the maximum extent permitted by applicable law, the Work is provided “AS IS” and “AS AVAILABLE”, without warranties or conditions of any kind, whether express, implied, or statutory.
+
+The Copyright Holders disclaim warranties of merchantability, fitness for a particular purpose, accuracy, availability, and non-infringement to the extent such disclaimers are legally permitted.
+
+The Copyright Holders do not warrant that the Work is secure, error-free, uninterrupted, or suitable for any particular purpose.
+
+==================================================
+11. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the Copyright Holders shall not be liable for indirect, incidental, special, consequential, or punitive damages arising from the use of, inability to use, or unauthorized use of the Work.
+
+Nothing in this license excludes or limits any liability that cannot lawfully be excluded or limited.
+
+==================================================
+12. TERMINATION
+
+Any permission granted under this license may terminate automatically upon a material breach of its terms, to the extent permitted by applicable law.
+
+Upon termination, the affected user must cease any use of the Work that is no longer authorized.
+
+Termination does not eliminate rights or remedies that accrued before termination, nor does it override any mandatory legal protections.
+
+==================================================
+13. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this license are reserved by the applicable Copyright Holder or other rightful owner.
+
+Access to the Work does not constitute a transfer of copyright ownership or a general authorization to reproduce, distribute, commercially exploit, or sublicense the Work.
+
+Nothing in this license restricts rights that cannot lawfully be restricted under applicable law.
+
+==================================================
+14. GOVERNING LAW AND INTERPRETATION
+
+The interpretation, validity, and enforceability of this license are subject to applicable law.
+
+This license does not designate a governing law or exclusive court jurisdiction. Any such designation should be established in a separate, appropriately drafted agreement where legally appropriate.
+
+If any provision is held unenforceable, the remaining provisions shall continue to apply to the extent permitted by law.
+
+==================================================
+15. CONTACT AND PERMISSION REQUESTS
+
+Requests for commercial licensing, redistribution permissions, or other exceptions should be submitted to the Copyright Holders through their official GitHub accounts:
+
+https://github.com/y2konovalov-bit
+https://github.com/deniedsndwx-hash
+
+No permission request shall be considered approved merely because it was submitted. Authorization must be expressly granted in writing by a person legally entitled to grant it.
+
+==================================================
+END OF LICENSE
