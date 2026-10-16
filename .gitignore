@@ -3,4 +3,7 @@
 .vscode
 FSM/__init__.py
 handlers/__init__.py
+handlers/__pycache__
+
 keyboards/__init__.py
+keyboards/__pycache__
